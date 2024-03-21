@@ -1,6 +1,6 @@
 {
-  "name": "Saytik",
-  "short_name": "Saytik",
+  "name": "RandomStuffWASM",
+  "short_name": "RandomStuffWASM",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
